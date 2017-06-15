@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": false,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "target": "es6",
+    "allowJs": true
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "compileOnSave": true
+}
